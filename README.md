@@ -11,6 +11,7 @@
 
 ## pictures of this Work
  ##An Example##
+ 
 <img src="tc8.png">
 
 <img src="tc4.png">
@@ -30,12 +31,15 @@
  -PRACTISED USING PROPER FONTS AND FONT-SIZES TO ENSURE BEAUTIFUL OUTCOME OF TEXT TEXTURES IN HTML.
 
  ##Larger screen sizes##
+ 
 <img src="tc1.png">
 
-<img src="tc2.png">
-
  ##smaller screen sizes##
+ 
+ <img src="tc2.png">
+ 
 <img src="tc6.png">
+
 
 
 ##Check out this Road-Map which will serve as a guide##
